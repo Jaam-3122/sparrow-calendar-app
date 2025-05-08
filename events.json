@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Team Standup",
+    "date": "2025-05-09",
+    "time": "10:00",
+    "duration": "30 mins",
+    "category": "Tasks"
+  },
+  {
+    "title": "Client Call",
+    "date": "2025-05-09",
+    "time": "10:00",
+    "duration": "1 hour",
+    "category": "Default"
+  },
+  {
+    "title": "Code Review",
+    "date": "2025-05-09",
+    "time": "10:15",
+    "duration": "45 mins",
+    "category": "Tasks"
+  },
+  {
+    "title": "Lunch with Sam",
+    "date": "2025-05-09",
+    "time": "12:30",
+    "duration": "1 hour",
+    "category": "Birthdays"
+  },
+  {
+    "title": "Design Sync",
+    "date": "2025-05-10",
+    "time": "14:00",
+    "duration": "30 mins",
+    "category": "Default"
+  },
+  {
+    "title": "Backend Deployment",
+    "date": "2025-05-10",
+    "time": "14:00",
+    "duration": "1 hour",
+    "category": "Tasks"
+  },
+  {
+    "title": "Daily Wrap-up",
+    "date": "2025-05-10",
+    "time": "17:30",
+    "duration": "30 mins",
+    "category": "Tasks"
+  },
+  {
+    "title": "Alice's Birthday",
+    "date": "2025-05-11",
+    "time": "All Day",
+    "duration": "All Day",
+    "category": "Birthdays"
+  },
+  {
+    "title": "Marketing Strategy",
+    "date": "2025-05-12",
+    "time": "09:00",
+    "duration": "1.5 hours",
+    "category": "Default"
+  },
+  {
+    "title": "Doctor Appointment",
+    "date": "2025-05-12",
+    "time": "09:00",
+    "duration": "30 mins",
+    "category": "Tasks"
+  }
+]
