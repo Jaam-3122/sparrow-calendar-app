@@ -2,7 +2,7 @@
   "name": "my-calendar-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://username.github.io/my-calendar-app",
+  "homepage": "https://Jaam-3122.github.io/sparrow-calendar-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

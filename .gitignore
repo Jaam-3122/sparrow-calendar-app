@@ -21,3 +21,4 @@ Thumbs.db
 .env.development.local
 .env.test.local
 .env.production.local
+git rm -r --cached node_modules/
